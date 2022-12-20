@@ -159,6 +159,7 @@ const Detail = ({ postDetails }: IProps) => {
 							/>
 						)}
 					</div>
+
 					<Comments
 						comment={comment}
 						setComment={setComment}
