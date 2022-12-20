@@ -63,6 +63,7 @@ const Comments = ({
 															{user.userName.replaceAll(" ", "")}
 															<GoVerified className="text-blue-400" />
 														</p>
+
 														<p className="capitalize text-gray-400 text-xs">
 															{user.userName}
 														</p>
