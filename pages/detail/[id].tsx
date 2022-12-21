@@ -135,6 +135,7 @@ const Detail = ({ postDetails }: IProps) => {
 								</>
 							</Link>
 						</div>
+
 						<div>
 							<Link href="/">
 								<div className="mt-3 flex flex-col gap-2">
